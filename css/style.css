@@ -19,6 +19,9 @@ main div {
   transition: all 500ms;
   transition-timing-function: steps(16, end);
 }
+main div:nth-child(0n) {
+  transition-delay: 0ms;
+}
 main div:nth-child(1n) {
   transition-delay: 20ms;
 }
