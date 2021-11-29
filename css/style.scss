@@ -12,14 +12,6 @@ main{
     div{ 
         height:3rem;
         width:3rem;
-        transition: all 500ms;
-        transition-timing-function: steps(16, end);
-        @for $i from 0 through 256 {
-            &:nth-child(#{$i}n) {
-                transition-delay: #{$i * 20}ms;
-            }
-        }
-
     }
 }
 
