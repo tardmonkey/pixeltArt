@@ -25,772 +25,772 @@ main div {
   transition-timing-function: steps(16, end);
 }
 main div:nth-child(1n) {
-  transition-delay: 50ms;
+  transition-delay: 20ms;
 }
 main div:nth-child(2n) {
-  transition-delay: 100ms;
+  transition-delay: 40ms;
 }
 main div:nth-child(3n) {
-  transition-delay: 150ms;
+  transition-delay: 60ms;
 }
 main div:nth-child(4n) {
-  transition-delay: 200ms;
+  transition-delay: 80ms;
 }
 main div:nth-child(5n) {
-  transition-delay: 250ms;
+  transition-delay: 100ms;
 }
 main div:nth-child(6n) {
-  transition-delay: 300ms;
+  transition-delay: 120ms;
 }
 main div:nth-child(7n) {
-  transition-delay: 350ms;
+  transition-delay: 140ms;
 }
 main div:nth-child(8n) {
-  transition-delay: 400ms;
+  transition-delay: 160ms;
 }
 main div:nth-child(9n) {
-  transition-delay: 450ms;
+  transition-delay: 180ms;
 }
 main div:nth-child(10n) {
-  transition-delay: 500ms;
+  transition-delay: 200ms;
 }
 main div:nth-child(11n) {
-  transition-delay: 550ms;
+  transition-delay: 220ms;
 }
 main div:nth-child(12n) {
-  transition-delay: 600ms;
+  transition-delay: 240ms;
 }
 main div:nth-child(13n) {
-  transition-delay: 650ms;
+  transition-delay: 260ms;
 }
 main div:nth-child(14n) {
-  transition-delay: 700ms;
+  transition-delay: 280ms;
 }
 main div:nth-child(15n) {
-  transition-delay: 750ms;
+  transition-delay: 300ms;
 }
 main div:nth-child(16n) {
-  transition-delay: 800ms;
+  transition-delay: 320ms;
 }
 main div:nth-child(17n) {
-  transition-delay: 850ms;
+  transition-delay: 340ms;
 }
 main div:nth-child(18n) {
-  transition-delay: 900ms;
+  transition-delay: 360ms;
 }
 main div:nth-child(19n) {
-  transition-delay: 950ms;
+  transition-delay: 380ms;
 }
 main div:nth-child(20n) {
-  transition-delay: 1000ms;
+  transition-delay: 400ms;
 }
 main div:nth-child(21n) {
-  transition-delay: 1050ms;
+  transition-delay: 420ms;
 }
 main div:nth-child(22n) {
-  transition-delay: 1100ms;
+  transition-delay: 440ms;
 }
 main div:nth-child(23n) {
-  transition-delay: 1150ms;
+  transition-delay: 460ms;
 }
 main div:nth-child(24n) {
-  transition-delay: 1200ms;
+  transition-delay: 480ms;
 }
 main div:nth-child(25n) {
-  transition-delay: 1250ms;
+  transition-delay: 500ms;
 }
 main div:nth-child(26n) {
-  transition-delay: 1300ms;
+  transition-delay: 520ms;
 }
 main div:nth-child(27n) {
-  transition-delay: 1350ms;
+  transition-delay: 540ms;
 }
 main div:nth-child(28n) {
-  transition-delay: 1400ms;
+  transition-delay: 560ms;
 }
 main div:nth-child(29n) {
-  transition-delay: 1450ms;
+  transition-delay: 580ms;
 }
 main div:nth-child(30n) {
-  transition-delay: 1500ms;
+  transition-delay: 600ms;
 }
 main div:nth-child(31n) {
-  transition-delay: 1550ms;
+  transition-delay: 620ms;
 }
 main div:nth-child(32n) {
-  transition-delay: 1600ms;
+  transition-delay: 640ms;
 }
 main div:nth-child(33n) {
-  transition-delay: 1650ms;
+  transition-delay: 660ms;
 }
 main div:nth-child(34n) {
-  transition-delay: 1700ms;
+  transition-delay: 680ms;
 }
 main div:nth-child(35n) {
-  transition-delay: 1750ms;
+  transition-delay: 700ms;
 }
 main div:nth-child(36n) {
-  transition-delay: 1800ms;
+  transition-delay: 720ms;
 }
 main div:nth-child(37n) {
-  transition-delay: 1850ms;
+  transition-delay: 740ms;
 }
 main div:nth-child(38n) {
-  transition-delay: 1900ms;
+  transition-delay: 760ms;
 }
 main div:nth-child(39n) {
-  transition-delay: 1950ms;
+  transition-delay: 780ms;
 }
 main div:nth-child(40n) {
-  transition-delay: 2000ms;
+  transition-delay: 800ms;
 }
 main div:nth-child(41n) {
-  transition-delay: 2050ms;
+  transition-delay: 820ms;
 }
 main div:nth-child(42n) {
-  transition-delay: 2100ms;
+  transition-delay: 840ms;
 }
 main div:nth-child(43n) {
-  transition-delay: 2150ms;
+  transition-delay: 860ms;
 }
 main div:nth-child(44n) {
-  transition-delay: 2200ms;
+  transition-delay: 880ms;
 }
 main div:nth-child(45n) {
-  transition-delay: 2250ms;
+  transition-delay: 900ms;
 }
 main div:nth-child(46n) {
-  transition-delay: 2300ms;
+  transition-delay: 920ms;
 }
 main div:nth-child(47n) {
-  transition-delay: 2350ms;
+  transition-delay: 940ms;
 }
 main div:nth-child(48n) {
-  transition-delay: 2400ms;
+  transition-delay: 960ms;
 }
 main div:nth-child(49n) {
-  transition-delay: 2450ms;
+  transition-delay: 980ms;
 }
 main div:nth-child(50n) {
-  transition-delay: 2500ms;
+  transition-delay: 1000ms;
 }
 main div:nth-child(51n) {
-  transition-delay: 2550ms;
+  transition-delay: 1020ms;
 }
 main div:nth-child(52n) {
-  transition-delay: 2600ms;
+  transition-delay: 1040ms;
 }
 main div:nth-child(53n) {
-  transition-delay: 2650ms;
+  transition-delay: 1060ms;
 }
 main div:nth-child(54n) {
-  transition-delay: 2700ms;
+  transition-delay: 1080ms;
 }
 main div:nth-child(55n) {
-  transition-delay: 2750ms;
+  transition-delay: 1100ms;
 }
 main div:nth-child(56n) {
-  transition-delay: 2800ms;
+  transition-delay: 1120ms;
 }
 main div:nth-child(57n) {
-  transition-delay: 2850ms;
+  transition-delay: 1140ms;
 }
 main div:nth-child(58n) {
-  transition-delay: 2900ms;
+  transition-delay: 1160ms;
 }
 main div:nth-child(59n) {
-  transition-delay: 2950ms;
+  transition-delay: 1180ms;
 }
 main div:nth-child(60n) {
-  transition-delay: 3000ms;
+  transition-delay: 1200ms;
 }
 main div:nth-child(61n) {
-  transition-delay: 3050ms;
+  transition-delay: 1220ms;
 }
 main div:nth-child(62n) {
-  transition-delay: 3100ms;
+  transition-delay: 1240ms;
 }
 main div:nth-child(63n) {
-  transition-delay: 3150ms;
+  transition-delay: 1260ms;
 }
 main div:nth-child(64n) {
-  transition-delay: 3200ms;
+  transition-delay: 1280ms;
 }
 main div:nth-child(65n) {
-  transition-delay: 3250ms;
+  transition-delay: 1300ms;
 }
 main div:nth-child(66n) {
-  transition-delay: 3300ms;
+  transition-delay: 1320ms;
 }
 main div:nth-child(67n) {
-  transition-delay: 3350ms;
+  transition-delay: 1340ms;
 }
 main div:nth-child(68n) {
-  transition-delay: 3400ms;
+  transition-delay: 1360ms;
 }
 main div:nth-child(69n) {
-  transition-delay: 3450ms;
+  transition-delay: 1380ms;
 }
 main div:nth-child(70n) {
-  transition-delay: 3500ms;
+  transition-delay: 1400ms;
 }
 main div:nth-child(71n) {
-  transition-delay: 3550ms;
+  transition-delay: 1420ms;
 }
 main div:nth-child(72n) {
-  transition-delay: 3600ms;
+  transition-delay: 1440ms;
 }
 main div:nth-child(73n) {
-  transition-delay: 3650ms;
+  transition-delay: 1460ms;
 }
 main div:nth-child(74n) {
-  transition-delay: 3700ms;
+  transition-delay: 1480ms;
 }
 main div:nth-child(75n) {
-  transition-delay: 3750ms;
+  transition-delay: 1500ms;
 }
 main div:nth-child(76n) {
-  transition-delay: 3800ms;
+  transition-delay: 1520ms;
 }
 main div:nth-child(77n) {
-  transition-delay: 3850ms;
+  transition-delay: 1540ms;
 }
 main div:nth-child(78n) {
-  transition-delay: 3900ms;
+  transition-delay: 1560ms;
 }
 main div:nth-child(79n) {
-  transition-delay: 3950ms;
+  transition-delay: 1580ms;
 }
 main div:nth-child(80n) {
-  transition-delay: 4000ms;
+  transition-delay: 1600ms;
 }
 main div:nth-child(81n) {
-  transition-delay: 4050ms;
+  transition-delay: 1620ms;
 }
 main div:nth-child(82n) {
-  transition-delay: 4100ms;
+  transition-delay: 1640ms;
 }
 main div:nth-child(83n) {
-  transition-delay: 4150ms;
+  transition-delay: 1660ms;
 }
 main div:nth-child(84n) {
-  transition-delay: 4200ms;
+  transition-delay: 1680ms;
 }
 main div:nth-child(85n) {
-  transition-delay: 4250ms;
+  transition-delay: 1700ms;
 }
 main div:nth-child(86n) {
-  transition-delay: 4300ms;
+  transition-delay: 1720ms;
 }
 main div:nth-child(87n) {
-  transition-delay: 4350ms;
+  transition-delay: 1740ms;
 }
 main div:nth-child(88n) {
-  transition-delay: 4400ms;
+  transition-delay: 1760ms;
 }
 main div:nth-child(89n) {
-  transition-delay: 4450ms;
+  transition-delay: 1780ms;
 }
 main div:nth-child(90n) {
-  transition-delay: 4500ms;
+  transition-delay: 1800ms;
 }
 main div:nth-child(91n) {
-  transition-delay: 4550ms;
+  transition-delay: 1820ms;
 }
 main div:nth-child(92n) {
-  transition-delay: 4600ms;
+  transition-delay: 1840ms;
 }
 main div:nth-child(93n) {
-  transition-delay: 4650ms;
+  transition-delay: 1860ms;
 }
 main div:nth-child(94n) {
-  transition-delay: 4700ms;
+  transition-delay: 1880ms;
 }
 main div:nth-child(95n) {
-  transition-delay: 4750ms;
+  transition-delay: 1900ms;
 }
 main div:nth-child(96n) {
-  transition-delay: 4800ms;
+  transition-delay: 1920ms;
 }
 main div:nth-child(97n) {
-  transition-delay: 4850ms;
+  transition-delay: 1940ms;
 }
 main div:nth-child(98n) {
-  transition-delay: 4900ms;
+  transition-delay: 1960ms;
 }
 main div:nth-child(99n) {
-  transition-delay: 4950ms;
+  transition-delay: 1980ms;
 }
 main div:nth-child(100n) {
-  transition-delay: 5000ms;
+  transition-delay: 2000ms;
 }
 main div:nth-child(101n) {
-  transition-delay: 5050ms;
+  transition-delay: 2020ms;
 }
 main div:nth-child(102n) {
-  transition-delay: 5100ms;
+  transition-delay: 2040ms;
 }
 main div:nth-child(103n) {
-  transition-delay: 5150ms;
+  transition-delay: 2060ms;
 }
 main div:nth-child(104n) {
-  transition-delay: 5200ms;
+  transition-delay: 2080ms;
 }
 main div:nth-child(105n) {
-  transition-delay: 5250ms;
+  transition-delay: 2100ms;
 }
 main div:nth-child(106n) {
-  transition-delay: 5300ms;
+  transition-delay: 2120ms;
 }
 main div:nth-child(107n) {
-  transition-delay: 5350ms;
+  transition-delay: 2140ms;
 }
 main div:nth-child(108n) {
-  transition-delay: 5400ms;
+  transition-delay: 2160ms;
 }
 main div:nth-child(109n) {
-  transition-delay: 5450ms;
+  transition-delay: 2180ms;
 }
 main div:nth-child(110n) {
-  transition-delay: 5500ms;
+  transition-delay: 2200ms;
 }
 main div:nth-child(111n) {
-  transition-delay: 5550ms;
+  transition-delay: 2220ms;
 }
 main div:nth-child(112n) {
-  transition-delay: 5600ms;
+  transition-delay: 2240ms;
 }
 main div:nth-child(113n) {
-  transition-delay: 5650ms;
+  transition-delay: 2260ms;
 }
 main div:nth-child(114n) {
-  transition-delay: 5700ms;
+  transition-delay: 2280ms;
 }
 main div:nth-child(115n) {
-  transition-delay: 5750ms;
+  transition-delay: 2300ms;
 }
 main div:nth-child(116n) {
-  transition-delay: 5800ms;
+  transition-delay: 2320ms;
 }
 main div:nth-child(117n) {
-  transition-delay: 5850ms;
+  transition-delay: 2340ms;
 }
 main div:nth-child(118n) {
-  transition-delay: 5900ms;
+  transition-delay: 2360ms;
 }
 main div:nth-child(119n) {
-  transition-delay: 5950ms;
+  transition-delay: 2380ms;
 }
 main div:nth-child(120n) {
-  transition-delay: 6000ms;
+  transition-delay: 2400ms;
 }
 main div:nth-child(121n) {
-  transition-delay: 6050ms;
+  transition-delay: 2420ms;
 }
 main div:nth-child(122n) {
-  transition-delay: 6100ms;
+  transition-delay: 2440ms;
 }
 main div:nth-child(123n) {
-  transition-delay: 6150ms;
+  transition-delay: 2460ms;
 }
 main div:nth-child(124n) {
-  transition-delay: 6200ms;
+  transition-delay: 2480ms;
 }
 main div:nth-child(125n) {
-  transition-delay: 6250ms;
+  transition-delay: 2500ms;
 }
 main div:nth-child(126n) {
-  transition-delay: 6300ms;
+  transition-delay: 2520ms;
 }
 main div:nth-child(127n) {
-  transition-delay: 6350ms;
+  transition-delay: 2540ms;
 }
 main div:nth-child(128n) {
-  transition-delay: 6400ms;
+  transition-delay: 2560ms;
 }
 main div:nth-child(129n) {
-  transition-delay: 6450ms;
+  transition-delay: 2580ms;
 }
 main div:nth-child(130n) {
-  transition-delay: 6500ms;
+  transition-delay: 2600ms;
 }
 main div:nth-child(131n) {
-  transition-delay: 6550ms;
+  transition-delay: 2620ms;
 }
 main div:nth-child(132n) {
-  transition-delay: 6600ms;
+  transition-delay: 2640ms;
 }
 main div:nth-child(133n) {
-  transition-delay: 6650ms;
+  transition-delay: 2660ms;
 }
 main div:nth-child(134n) {
-  transition-delay: 6700ms;
+  transition-delay: 2680ms;
 }
 main div:nth-child(135n) {
-  transition-delay: 6750ms;
+  transition-delay: 2700ms;
 }
 main div:nth-child(136n) {
-  transition-delay: 6800ms;
+  transition-delay: 2720ms;
 }
 main div:nth-child(137n) {
-  transition-delay: 6850ms;
+  transition-delay: 2740ms;
 }
 main div:nth-child(138n) {
-  transition-delay: 6900ms;
+  transition-delay: 2760ms;
 }
 main div:nth-child(139n) {
-  transition-delay: 6950ms;
+  transition-delay: 2780ms;
 }
 main div:nth-child(140n) {
-  transition-delay: 7000ms;
+  transition-delay: 2800ms;
 }
 main div:nth-child(141n) {
-  transition-delay: 7050ms;
+  transition-delay: 2820ms;
 }
 main div:nth-child(142n) {
-  transition-delay: 7100ms;
+  transition-delay: 2840ms;
 }
 main div:nth-child(143n) {
-  transition-delay: 7150ms;
+  transition-delay: 2860ms;
 }
 main div:nth-child(144n) {
-  transition-delay: 7200ms;
+  transition-delay: 2880ms;
 }
 main div:nth-child(145n) {
-  transition-delay: 7250ms;
+  transition-delay: 2900ms;
 }
 main div:nth-child(146n) {
-  transition-delay: 7300ms;
+  transition-delay: 2920ms;
 }
 main div:nth-child(147n) {
-  transition-delay: 7350ms;
+  transition-delay: 2940ms;
 }
 main div:nth-child(148n) {
-  transition-delay: 7400ms;
+  transition-delay: 2960ms;
 }
 main div:nth-child(149n) {
-  transition-delay: 7450ms;
+  transition-delay: 2980ms;
 }
 main div:nth-child(150n) {
-  transition-delay: 7500ms;
+  transition-delay: 3000ms;
 }
 main div:nth-child(151n) {
-  transition-delay: 7550ms;
+  transition-delay: 3020ms;
 }
 main div:nth-child(152n) {
-  transition-delay: 7600ms;
+  transition-delay: 3040ms;
 }
 main div:nth-child(153n) {
-  transition-delay: 7650ms;
+  transition-delay: 3060ms;
 }
 main div:nth-child(154n) {
-  transition-delay: 7700ms;
+  transition-delay: 3080ms;
 }
 main div:nth-child(155n) {
-  transition-delay: 7750ms;
+  transition-delay: 3100ms;
 }
 main div:nth-child(156n) {
-  transition-delay: 7800ms;
+  transition-delay: 3120ms;
 }
 main div:nth-child(157n) {
-  transition-delay: 7850ms;
+  transition-delay: 3140ms;
 }
 main div:nth-child(158n) {
-  transition-delay: 7900ms;
+  transition-delay: 3160ms;
 }
 main div:nth-child(159n) {
-  transition-delay: 7950ms;
+  transition-delay: 3180ms;
 }
 main div:nth-child(160n) {
-  transition-delay: 8000ms;
+  transition-delay: 3200ms;
 }
 main div:nth-child(161n) {
-  transition-delay: 8050ms;
+  transition-delay: 3220ms;
 }
 main div:nth-child(162n) {
-  transition-delay: 8100ms;
+  transition-delay: 3240ms;
 }
 main div:nth-child(163n) {
-  transition-delay: 8150ms;
+  transition-delay: 3260ms;
 }
 main div:nth-child(164n) {
-  transition-delay: 8200ms;
+  transition-delay: 3280ms;
 }
 main div:nth-child(165n) {
-  transition-delay: 8250ms;
+  transition-delay: 3300ms;
 }
 main div:nth-child(166n) {
-  transition-delay: 8300ms;
+  transition-delay: 3320ms;
 }
 main div:nth-child(167n) {
-  transition-delay: 8350ms;
+  transition-delay: 3340ms;
 }
 main div:nth-child(168n) {
-  transition-delay: 8400ms;
+  transition-delay: 3360ms;
 }
 main div:nth-child(169n) {
-  transition-delay: 8450ms;
+  transition-delay: 3380ms;
 }
 main div:nth-child(170n) {
-  transition-delay: 8500ms;
+  transition-delay: 3400ms;
 }
 main div:nth-child(171n) {
-  transition-delay: 8550ms;
+  transition-delay: 3420ms;
 }
 main div:nth-child(172n) {
-  transition-delay: 8600ms;
+  transition-delay: 3440ms;
 }
 main div:nth-child(173n) {
-  transition-delay: 8650ms;
+  transition-delay: 3460ms;
 }
 main div:nth-child(174n) {
-  transition-delay: 8700ms;
+  transition-delay: 3480ms;
 }
 main div:nth-child(175n) {
-  transition-delay: 8750ms;
+  transition-delay: 3500ms;
 }
 main div:nth-child(176n) {
-  transition-delay: 8800ms;
+  transition-delay: 3520ms;
 }
 main div:nth-child(177n) {
-  transition-delay: 8850ms;
+  transition-delay: 3540ms;
 }
 main div:nth-child(178n) {
-  transition-delay: 8900ms;
+  transition-delay: 3560ms;
 }
 main div:nth-child(179n) {
-  transition-delay: 8950ms;
+  transition-delay: 3580ms;
 }
 main div:nth-child(180n) {
-  transition-delay: 9000ms;
+  transition-delay: 3600ms;
 }
 main div:nth-child(181n) {
-  transition-delay: 9050ms;
+  transition-delay: 3620ms;
 }
 main div:nth-child(182n) {
-  transition-delay: 9100ms;
+  transition-delay: 3640ms;
 }
 main div:nth-child(183n) {
-  transition-delay: 9150ms;
+  transition-delay: 3660ms;
 }
 main div:nth-child(184n) {
-  transition-delay: 9200ms;
+  transition-delay: 3680ms;
 }
 main div:nth-child(185n) {
-  transition-delay: 9250ms;
+  transition-delay: 3700ms;
 }
 main div:nth-child(186n) {
-  transition-delay: 9300ms;
+  transition-delay: 3720ms;
 }
 main div:nth-child(187n) {
-  transition-delay: 9350ms;
+  transition-delay: 3740ms;
 }
 main div:nth-child(188n) {
-  transition-delay: 9400ms;
+  transition-delay: 3760ms;
 }
 main div:nth-child(189n) {
-  transition-delay: 9450ms;
+  transition-delay: 3780ms;
 }
 main div:nth-child(190n) {
-  transition-delay: 9500ms;
+  transition-delay: 3800ms;
 }
 main div:nth-child(191n) {
-  transition-delay: 9550ms;
+  transition-delay: 3820ms;
 }
 main div:nth-child(192n) {
-  transition-delay: 9600ms;
+  transition-delay: 3840ms;
 }
 main div:nth-child(193n) {
-  transition-delay: 9650ms;
+  transition-delay: 3860ms;
 }
 main div:nth-child(194n) {
-  transition-delay: 9700ms;
+  transition-delay: 3880ms;
 }
 main div:nth-child(195n) {
-  transition-delay: 9750ms;
+  transition-delay: 3900ms;
 }
 main div:nth-child(196n) {
-  transition-delay: 9800ms;
+  transition-delay: 3920ms;
 }
 main div:nth-child(197n) {
-  transition-delay: 9850ms;
+  transition-delay: 3940ms;
 }
 main div:nth-child(198n) {
-  transition-delay: 9900ms;
+  transition-delay: 3960ms;
 }
 main div:nth-child(199n) {
-  transition-delay: 9950ms;
+  transition-delay: 3980ms;
 }
 main div:nth-child(200n) {
-  transition-delay: 10000ms;
+  transition-delay: 4000ms;
 }
 main div:nth-child(201n) {
-  transition-delay: 10050ms;
+  transition-delay: 4020ms;
 }
 main div:nth-child(202n) {
-  transition-delay: 10100ms;
+  transition-delay: 4040ms;
 }
 main div:nth-child(203n) {
-  transition-delay: 10150ms;
+  transition-delay: 4060ms;
 }
 main div:nth-child(204n) {
-  transition-delay: 10200ms;
+  transition-delay: 4080ms;
 }
 main div:nth-child(205n) {
-  transition-delay: 10250ms;
+  transition-delay: 4100ms;
 }
 main div:nth-child(206n) {
-  transition-delay: 10300ms;
+  transition-delay: 4120ms;
 }
 main div:nth-child(207n) {
-  transition-delay: 10350ms;
+  transition-delay: 4140ms;
 }
 main div:nth-child(208n) {
-  transition-delay: 10400ms;
+  transition-delay: 4160ms;
 }
 main div:nth-child(209n) {
-  transition-delay: 10450ms;
+  transition-delay: 4180ms;
 }
 main div:nth-child(210n) {
-  transition-delay: 10500ms;
+  transition-delay: 4200ms;
 }
 main div:nth-child(211n) {
-  transition-delay: 10550ms;
+  transition-delay: 4220ms;
 }
 main div:nth-child(212n) {
-  transition-delay: 10600ms;
+  transition-delay: 4240ms;
 }
 main div:nth-child(213n) {
-  transition-delay: 10650ms;
+  transition-delay: 4260ms;
 }
 main div:nth-child(214n) {
-  transition-delay: 10700ms;
+  transition-delay: 4280ms;
 }
 main div:nth-child(215n) {
-  transition-delay: 10750ms;
+  transition-delay: 4300ms;
 }
 main div:nth-child(216n) {
-  transition-delay: 10800ms;
+  transition-delay: 4320ms;
 }
 main div:nth-child(217n) {
-  transition-delay: 10850ms;
+  transition-delay: 4340ms;
 }
 main div:nth-child(218n) {
-  transition-delay: 10900ms;
+  transition-delay: 4360ms;
 }
 main div:nth-child(219n) {
-  transition-delay: 10950ms;
+  transition-delay: 4380ms;
 }
 main div:nth-child(220n) {
-  transition-delay: 11000ms;
+  transition-delay: 4400ms;
 }
 main div:nth-child(221n) {
-  transition-delay: 11050ms;
+  transition-delay: 4420ms;
 }
 main div:nth-child(222n) {
-  transition-delay: 11100ms;
+  transition-delay: 4440ms;
 }
 main div:nth-child(223n) {
-  transition-delay: 11150ms;
+  transition-delay: 4460ms;
 }
 main div:nth-child(224n) {
-  transition-delay: 11200ms;
+  transition-delay: 4480ms;
 }
 main div:nth-child(225n) {
-  transition-delay: 11250ms;
+  transition-delay: 4500ms;
 }
 main div:nth-child(226n) {
-  transition-delay: 11300ms;
+  transition-delay: 4520ms;
 }
 main div:nth-child(227n) {
-  transition-delay: 11350ms;
+  transition-delay: 4540ms;
 }
 main div:nth-child(228n) {
-  transition-delay: 11400ms;
+  transition-delay: 4560ms;
 }
 main div:nth-child(229n) {
-  transition-delay: 11450ms;
+  transition-delay: 4580ms;
 }
 main div:nth-child(230n) {
-  transition-delay: 11500ms;
+  transition-delay: 4600ms;
 }
 main div:nth-child(231n) {
-  transition-delay: 11550ms;
+  transition-delay: 4620ms;
 }
 main div:nth-child(232n) {
-  transition-delay: 11600ms;
+  transition-delay: 4640ms;
 }
 main div:nth-child(233n) {
-  transition-delay: 11650ms;
+  transition-delay: 4660ms;
 }
 main div:nth-child(234n) {
-  transition-delay: 11700ms;
+  transition-delay: 4680ms;
 }
 main div:nth-child(235n) {
-  transition-delay: 11750ms;
+  transition-delay: 4700ms;
 }
 main div:nth-child(236n) {
-  transition-delay: 11800ms;
+  transition-delay: 4720ms;
 }
 main div:nth-child(237n) {
-  transition-delay: 11850ms;
+  transition-delay: 4740ms;
 }
 main div:nth-child(238n) {
-  transition-delay: 11900ms;
+  transition-delay: 4760ms;
 }
 main div:nth-child(239n) {
-  transition-delay: 11950ms;
+  transition-delay: 4780ms;
 }
 main div:nth-child(240n) {
-  transition-delay: 12000ms;
+  transition-delay: 4800ms;
 }
 main div:nth-child(241n) {
-  transition-delay: 12050ms;
+  transition-delay: 4820ms;
 }
 main div:nth-child(242n) {
-  transition-delay: 12100ms;
+  transition-delay: 4840ms;
 }
 main div:nth-child(243n) {
-  transition-delay: 12150ms;
+  transition-delay: 4860ms;
 }
 main div:nth-child(244n) {
-  transition-delay: 12200ms;
+  transition-delay: 4880ms;
 }
 main div:nth-child(245n) {
-  transition-delay: 12250ms;
+  transition-delay: 4900ms;
 }
 main div:nth-child(246n) {
-  transition-delay: 12300ms;
+  transition-delay: 4920ms;
 }
 main div:nth-child(247n) {
-  transition-delay: 12350ms;
+  transition-delay: 4940ms;
 }
 main div:nth-child(248n) {
-  transition-delay: 12400ms;
+  transition-delay: 4960ms;
 }
 main div:nth-child(249n) {
-  transition-delay: 12450ms;
+  transition-delay: 4980ms;
 }
 main div:nth-child(250n) {
-  transition-delay: 12500ms;
+  transition-delay: 5000ms;
 }
 main div:nth-child(251n) {
-  transition-delay: 12550ms;
+  transition-delay: 5020ms;
 }
 main div:nth-child(252n) {
-  transition-delay: 12600ms;
+  transition-delay: 5040ms;
 }
 main div:nth-child(253n) {
-  transition-delay: 12650ms;
+  transition-delay: 5060ms;
 }
 main div:nth-child(254n) {
-  transition-delay: 12700ms;
+  transition-delay: 5080ms;
 }
 main div:nth-child(255n) {
-  transition-delay: 12750ms;
+  transition-delay: 5100ms;
 }
 main div:nth-child(256n) {
-  transition-delay: 12800ms;
+  transition-delay: 5120ms;
 }
 
 .red {
