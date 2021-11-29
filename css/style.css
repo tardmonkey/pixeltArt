@@ -1,0 +1,23 @@
+*,*::after,*::after{box-sizing: border-box;color:white;}
+body{margin:0;}
+main{
+    background-color: darkslategrey;
+    height:100vh;
+    width:100vw;
+    display:grid;
+    grid-template-columns:repeat(16, 3rem);
+    grid-template-rows: repeat(16, 3rem);
+    justify-content: center;
+    align-content: center;
+}
+main div{ 
+    height:3rem;
+    width:3rem;
+}
+.red{background-color:#A12122}
+.skin{background-color:#C79D75}
+.brown{background-color: #52211A;}
+.blu{background-color: #303A99;}
+.yellow{background-color: #FEF200;}
+.black{background-color: #000;}
+.gloves{background-color: #FDC40D;}
