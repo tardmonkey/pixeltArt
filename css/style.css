@@ -6,7 +6,6 @@ main {
   background: #09794c;
   background: linear-gradient(90deg, #09794c 0%, #00d4ff 100%);
   height: 100vh;
-  width: 100vw;
   display: grid;
   grid-template-columns: repeat(16, 3rem);
   grid-template-rows: repeat(16, 3rem);
@@ -1093,4 +1092,18 @@ main div:nth-child(256n) {
 
 .gloves {
   background-color: #FDC40D;
+}
+
+@media (max-width: 500px) {
+  main {
+    height: 100vh;
+    grid-template-columns: repeat(16, 1rem);
+    grid-template-rows: repeat(16, 1rem);
+    justify-content: center;
+    align-content: center;
+  }
+  main div {
+    height: 1rem;
+    width: 1rem;
+  }
 }/*# sourceMappingURL=style.css.map */
