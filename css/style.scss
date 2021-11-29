@@ -12,9 +12,28 @@ main{
     div{ 
         height:3rem;
         width:3rem;
+        animation:load 500ms steps(16, end);
+        animation-fill-mode:backwards;
+        @for $i from 0 through 256 {
+            &:nth-child(#{$i}n) {
+                animation-delay: #{$i * 10}ms;
+            }
+        }
+    }
+    
+}
+@keyframes load {
+   0%{
+    opacity:0;
+    
+   }
+    100%{ 
+        opacity:0;
+    
+        
+        
     }
 }
-
 .red{background-color:#A12122}
 .skin{background-color:#C79D75}
 .brown{background-color: #52211A;}

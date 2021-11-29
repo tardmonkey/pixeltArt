@@ -61,5 +61,8 @@ document.addEventListener("DOMContentLoaded", function(){
         paint(235,238,"brown")
         paint(243,247,"brown")
         paint(251,255,"brown")
-
+       
         })
+        
+
+        
