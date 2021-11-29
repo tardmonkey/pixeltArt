@@ -1,24 +1,822 @@
-*,*::after,*::after{box-sizing: border-box;color:white;}
-body{margin:0;}
-main{
-    background: rgb(9,121,76);
-    background: linear-gradient(90deg, rgba(9,121,76,1) 0%, rgba(0,212,255,1) 100%);
-    height:100vh;
-    width:100vw;
-    display:grid;
-    grid-template-columns:repeat(16, 3rem);
-    grid-template-rows: repeat(16, 3rem);
-    justify-content: center;
-    align-content: center;
+*, *::after, *::after {
+  box-sizing: border-box;
+  color: white;
 }
-main div{ 
-    height:3rem;
-    width:3rem;
+
+body {
+  margin: 0;
 }
-.red{background-color:#A12122}
-.skin{background-color:#C79D75}
-.brown{background-color: #52211A;}
-.blu{background-color: #303A99;}
-.yellow{background-color: #FEF200;}
-.black{background-color: #000;}
-.gloves{background-color: #FDC40D;}
+
+main {
+  background: #09794c;
+  background: linear-gradient(90deg, #09794c 0%, #00d4ff 100%);
+  height: 100vh;
+  width: 100vw;
+  display: grid;
+  grid-template-columns: repeat(16, 3rem);
+  grid-template-rows: repeat(16, 3rem);
+  justify-content: center;
+  align-content: center;
+}
+main div {
+  height: 3rem;
+  width: 3rem;
+  transition: all 500ms;
+  transition-timing-function: steps(16, end);
+}
+main div:nth-child(1n) {
+  transition-delay: 50ms;
+}
+main div:nth-child(2n) {
+  transition-delay: 100ms;
+}
+main div:nth-child(3n) {
+  transition-delay: 150ms;
+}
+main div:nth-child(4n) {
+  transition-delay: 200ms;
+}
+main div:nth-child(5n) {
+  transition-delay: 250ms;
+}
+main div:nth-child(6n) {
+  transition-delay: 300ms;
+}
+main div:nth-child(7n) {
+  transition-delay: 350ms;
+}
+main div:nth-child(8n) {
+  transition-delay: 400ms;
+}
+main div:nth-child(9n) {
+  transition-delay: 450ms;
+}
+main div:nth-child(10n) {
+  transition-delay: 500ms;
+}
+main div:nth-child(11n) {
+  transition-delay: 550ms;
+}
+main div:nth-child(12n) {
+  transition-delay: 600ms;
+}
+main div:nth-child(13n) {
+  transition-delay: 650ms;
+}
+main div:nth-child(14n) {
+  transition-delay: 700ms;
+}
+main div:nth-child(15n) {
+  transition-delay: 750ms;
+}
+main div:nth-child(16n) {
+  transition-delay: 800ms;
+}
+main div:nth-child(17n) {
+  transition-delay: 850ms;
+}
+main div:nth-child(18n) {
+  transition-delay: 900ms;
+}
+main div:nth-child(19n) {
+  transition-delay: 950ms;
+}
+main div:nth-child(20n) {
+  transition-delay: 1000ms;
+}
+main div:nth-child(21n) {
+  transition-delay: 1050ms;
+}
+main div:nth-child(22n) {
+  transition-delay: 1100ms;
+}
+main div:nth-child(23n) {
+  transition-delay: 1150ms;
+}
+main div:nth-child(24n) {
+  transition-delay: 1200ms;
+}
+main div:nth-child(25n) {
+  transition-delay: 1250ms;
+}
+main div:nth-child(26n) {
+  transition-delay: 1300ms;
+}
+main div:nth-child(27n) {
+  transition-delay: 1350ms;
+}
+main div:nth-child(28n) {
+  transition-delay: 1400ms;
+}
+main div:nth-child(29n) {
+  transition-delay: 1450ms;
+}
+main div:nth-child(30n) {
+  transition-delay: 1500ms;
+}
+main div:nth-child(31n) {
+  transition-delay: 1550ms;
+}
+main div:nth-child(32n) {
+  transition-delay: 1600ms;
+}
+main div:nth-child(33n) {
+  transition-delay: 1650ms;
+}
+main div:nth-child(34n) {
+  transition-delay: 1700ms;
+}
+main div:nth-child(35n) {
+  transition-delay: 1750ms;
+}
+main div:nth-child(36n) {
+  transition-delay: 1800ms;
+}
+main div:nth-child(37n) {
+  transition-delay: 1850ms;
+}
+main div:nth-child(38n) {
+  transition-delay: 1900ms;
+}
+main div:nth-child(39n) {
+  transition-delay: 1950ms;
+}
+main div:nth-child(40n) {
+  transition-delay: 2000ms;
+}
+main div:nth-child(41n) {
+  transition-delay: 2050ms;
+}
+main div:nth-child(42n) {
+  transition-delay: 2100ms;
+}
+main div:nth-child(43n) {
+  transition-delay: 2150ms;
+}
+main div:nth-child(44n) {
+  transition-delay: 2200ms;
+}
+main div:nth-child(45n) {
+  transition-delay: 2250ms;
+}
+main div:nth-child(46n) {
+  transition-delay: 2300ms;
+}
+main div:nth-child(47n) {
+  transition-delay: 2350ms;
+}
+main div:nth-child(48n) {
+  transition-delay: 2400ms;
+}
+main div:nth-child(49n) {
+  transition-delay: 2450ms;
+}
+main div:nth-child(50n) {
+  transition-delay: 2500ms;
+}
+main div:nth-child(51n) {
+  transition-delay: 2550ms;
+}
+main div:nth-child(52n) {
+  transition-delay: 2600ms;
+}
+main div:nth-child(53n) {
+  transition-delay: 2650ms;
+}
+main div:nth-child(54n) {
+  transition-delay: 2700ms;
+}
+main div:nth-child(55n) {
+  transition-delay: 2750ms;
+}
+main div:nth-child(56n) {
+  transition-delay: 2800ms;
+}
+main div:nth-child(57n) {
+  transition-delay: 2850ms;
+}
+main div:nth-child(58n) {
+  transition-delay: 2900ms;
+}
+main div:nth-child(59n) {
+  transition-delay: 2950ms;
+}
+main div:nth-child(60n) {
+  transition-delay: 3000ms;
+}
+main div:nth-child(61n) {
+  transition-delay: 3050ms;
+}
+main div:nth-child(62n) {
+  transition-delay: 3100ms;
+}
+main div:nth-child(63n) {
+  transition-delay: 3150ms;
+}
+main div:nth-child(64n) {
+  transition-delay: 3200ms;
+}
+main div:nth-child(65n) {
+  transition-delay: 3250ms;
+}
+main div:nth-child(66n) {
+  transition-delay: 3300ms;
+}
+main div:nth-child(67n) {
+  transition-delay: 3350ms;
+}
+main div:nth-child(68n) {
+  transition-delay: 3400ms;
+}
+main div:nth-child(69n) {
+  transition-delay: 3450ms;
+}
+main div:nth-child(70n) {
+  transition-delay: 3500ms;
+}
+main div:nth-child(71n) {
+  transition-delay: 3550ms;
+}
+main div:nth-child(72n) {
+  transition-delay: 3600ms;
+}
+main div:nth-child(73n) {
+  transition-delay: 3650ms;
+}
+main div:nth-child(74n) {
+  transition-delay: 3700ms;
+}
+main div:nth-child(75n) {
+  transition-delay: 3750ms;
+}
+main div:nth-child(76n) {
+  transition-delay: 3800ms;
+}
+main div:nth-child(77n) {
+  transition-delay: 3850ms;
+}
+main div:nth-child(78n) {
+  transition-delay: 3900ms;
+}
+main div:nth-child(79n) {
+  transition-delay: 3950ms;
+}
+main div:nth-child(80n) {
+  transition-delay: 4000ms;
+}
+main div:nth-child(81n) {
+  transition-delay: 4050ms;
+}
+main div:nth-child(82n) {
+  transition-delay: 4100ms;
+}
+main div:nth-child(83n) {
+  transition-delay: 4150ms;
+}
+main div:nth-child(84n) {
+  transition-delay: 4200ms;
+}
+main div:nth-child(85n) {
+  transition-delay: 4250ms;
+}
+main div:nth-child(86n) {
+  transition-delay: 4300ms;
+}
+main div:nth-child(87n) {
+  transition-delay: 4350ms;
+}
+main div:nth-child(88n) {
+  transition-delay: 4400ms;
+}
+main div:nth-child(89n) {
+  transition-delay: 4450ms;
+}
+main div:nth-child(90n) {
+  transition-delay: 4500ms;
+}
+main div:nth-child(91n) {
+  transition-delay: 4550ms;
+}
+main div:nth-child(92n) {
+  transition-delay: 4600ms;
+}
+main div:nth-child(93n) {
+  transition-delay: 4650ms;
+}
+main div:nth-child(94n) {
+  transition-delay: 4700ms;
+}
+main div:nth-child(95n) {
+  transition-delay: 4750ms;
+}
+main div:nth-child(96n) {
+  transition-delay: 4800ms;
+}
+main div:nth-child(97n) {
+  transition-delay: 4850ms;
+}
+main div:nth-child(98n) {
+  transition-delay: 4900ms;
+}
+main div:nth-child(99n) {
+  transition-delay: 4950ms;
+}
+main div:nth-child(100n) {
+  transition-delay: 5000ms;
+}
+main div:nth-child(101n) {
+  transition-delay: 5050ms;
+}
+main div:nth-child(102n) {
+  transition-delay: 5100ms;
+}
+main div:nth-child(103n) {
+  transition-delay: 5150ms;
+}
+main div:nth-child(104n) {
+  transition-delay: 5200ms;
+}
+main div:nth-child(105n) {
+  transition-delay: 5250ms;
+}
+main div:nth-child(106n) {
+  transition-delay: 5300ms;
+}
+main div:nth-child(107n) {
+  transition-delay: 5350ms;
+}
+main div:nth-child(108n) {
+  transition-delay: 5400ms;
+}
+main div:nth-child(109n) {
+  transition-delay: 5450ms;
+}
+main div:nth-child(110n) {
+  transition-delay: 5500ms;
+}
+main div:nth-child(111n) {
+  transition-delay: 5550ms;
+}
+main div:nth-child(112n) {
+  transition-delay: 5600ms;
+}
+main div:nth-child(113n) {
+  transition-delay: 5650ms;
+}
+main div:nth-child(114n) {
+  transition-delay: 5700ms;
+}
+main div:nth-child(115n) {
+  transition-delay: 5750ms;
+}
+main div:nth-child(116n) {
+  transition-delay: 5800ms;
+}
+main div:nth-child(117n) {
+  transition-delay: 5850ms;
+}
+main div:nth-child(118n) {
+  transition-delay: 5900ms;
+}
+main div:nth-child(119n) {
+  transition-delay: 5950ms;
+}
+main div:nth-child(120n) {
+  transition-delay: 6000ms;
+}
+main div:nth-child(121n) {
+  transition-delay: 6050ms;
+}
+main div:nth-child(122n) {
+  transition-delay: 6100ms;
+}
+main div:nth-child(123n) {
+  transition-delay: 6150ms;
+}
+main div:nth-child(124n) {
+  transition-delay: 6200ms;
+}
+main div:nth-child(125n) {
+  transition-delay: 6250ms;
+}
+main div:nth-child(126n) {
+  transition-delay: 6300ms;
+}
+main div:nth-child(127n) {
+  transition-delay: 6350ms;
+}
+main div:nth-child(128n) {
+  transition-delay: 6400ms;
+}
+main div:nth-child(129n) {
+  transition-delay: 6450ms;
+}
+main div:nth-child(130n) {
+  transition-delay: 6500ms;
+}
+main div:nth-child(131n) {
+  transition-delay: 6550ms;
+}
+main div:nth-child(132n) {
+  transition-delay: 6600ms;
+}
+main div:nth-child(133n) {
+  transition-delay: 6650ms;
+}
+main div:nth-child(134n) {
+  transition-delay: 6700ms;
+}
+main div:nth-child(135n) {
+  transition-delay: 6750ms;
+}
+main div:nth-child(136n) {
+  transition-delay: 6800ms;
+}
+main div:nth-child(137n) {
+  transition-delay: 6850ms;
+}
+main div:nth-child(138n) {
+  transition-delay: 6900ms;
+}
+main div:nth-child(139n) {
+  transition-delay: 6950ms;
+}
+main div:nth-child(140n) {
+  transition-delay: 7000ms;
+}
+main div:nth-child(141n) {
+  transition-delay: 7050ms;
+}
+main div:nth-child(142n) {
+  transition-delay: 7100ms;
+}
+main div:nth-child(143n) {
+  transition-delay: 7150ms;
+}
+main div:nth-child(144n) {
+  transition-delay: 7200ms;
+}
+main div:nth-child(145n) {
+  transition-delay: 7250ms;
+}
+main div:nth-child(146n) {
+  transition-delay: 7300ms;
+}
+main div:nth-child(147n) {
+  transition-delay: 7350ms;
+}
+main div:nth-child(148n) {
+  transition-delay: 7400ms;
+}
+main div:nth-child(149n) {
+  transition-delay: 7450ms;
+}
+main div:nth-child(150n) {
+  transition-delay: 7500ms;
+}
+main div:nth-child(151n) {
+  transition-delay: 7550ms;
+}
+main div:nth-child(152n) {
+  transition-delay: 7600ms;
+}
+main div:nth-child(153n) {
+  transition-delay: 7650ms;
+}
+main div:nth-child(154n) {
+  transition-delay: 7700ms;
+}
+main div:nth-child(155n) {
+  transition-delay: 7750ms;
+}
+main div:nth-child(156n) {
+  transition-delay: 7800ms;
+}
+main div:nth-child(157n) {
+  transition-delay: 7850ms;
+}
+main div:nth-child(158n) {
+  transition-delay: 7900ms;
+}
+main div:nth-child(159n) {
+  transition-delay: 7950ms;
+}
+main div:nth-child(160n) {
+  transition-delay: 8000ms;
+}
+main div:nth-child(161n) {
+  transition-delay: 8050ms;
+}
+main div:nth-child(162n) {
+  transition-delay: 8100ms;
+}
+main div:nth-child(163n) {
+  transition-delay: 8150ms;
+}
+main div:nth-child(164n) {
+  transition-delay: 8200ms;
+}
+main div:nth-child(165n) {
+  transition-delay: 8250ms;
+}
+main div:nth-child(166n) {
+  transition-delay: 8300ms;
+}
+main div:nth-child(167n) {
+  transition-delay: 8350ms;
+}
+main div:nth-child(168n) {
+  transition-delay: 8400ms;
+}
+main div:nth-child(169n) {
+  transition-delay: 8450ms;
+}
+main div:nth-child(170n) {
+  transition-delay: 8500ms;
+}
+main div:nth-child(171n) {
+  transition-delay: 8550ms;
+}
+main div:nth-child(172n) {
+  transition-delay: 8600ms;
+}
+main div:nth-child(173n) {
+  transition-delay: 8650ms;
+}
+main div:nth-child(174n) {
+  transition-delay: 8700ms;
+}
+main div:nth-child(175n) {
+  transition-delay: 8750ms;
+}
+main div:nth-child(176n) {
+  transition-delay: 8800ms;
+}
+main div:nth-child(177n) {
+  transition-delay: 8850ms;
+}
+main div:nth-child(178n) {
+  transition-delay: 8900ms;
+}
+main div:nth-child(179n) {
+  transition-delay: 8950ms;
+}
+main div:nth-child(180n) {
+  transition-delay: 9000ms;
+}
+main div:nth-child(181n) {
+  transition-delay: 9050ms;
+}
+main div:nth-child(182n) {
+  transition-delay: 9100ms;
+}
+main div:nth-child(183n) {
+  transition-delay: 9150ms;
+}
+main div:nth-child(184n) {
+  transition-delay: 9200ms;
+}
+main div:nth-child(185n) {
+  transition-delay: 9250ms;
+}
+main div:nth-child(186n) {
+  transition-delay: 9300ms;
+}
+main div:nth-child(187n) {
+  transition-delay: 9350ms;
+}
+main div:nth-child(188n) {
+  transition-delay: 9400ms;
+}
+main div:nth-child(189n) {
+  transition-delay: 9450ms;
+}
+main div:nth-child(190n) {
+  transition-delay: 9500ms;
+}
+main div:nth-child(191n) {
+  transition-delay: 9550ms;
+}
+main div:nth-child(192n) {
+  transition-delay: 9600ms;
+}
+main div:nth-child(193n) {
+  transition-delay: 9650ms;
+}
+main div:nth-child(194n) {
+  transition-delay: 9700ms;
+}
+main div:nth-child(195n) {
+  transition-delay: 9750ms;
+}
+main div:nth-child(196n) {
+  transition-delay: 9800ms;
+}
+main div:nth-child(197n) {
+  transition-delay: 9850ms;
+}
+main div:nth-child(198n) {
+  transition-delay: 9900ms;
+}
+main div:nth-child(199n) {
+  transition-delay: 9950ms;
+}
+main div:nth-child(200n) {
+  transition-delay: 10000ms;
+}
+main div:nth-child(201n) {
+  transition-delay: 10050ms;
+}
+main div:nth-child(202n) {
+  transition-delay: 10100ms;
+}
+main div:nth-child(203n) {
+  transition-delay: 10150ms;
+}
+main div:nth-child(204n) {
+  transition-delay: 10200ms;
+}
+main div:nth-child(205n) {
+  transition-delay: 10250ms;
+}
+main div:nth-child(206n) {
+  transition-delay: 10300ms;
+}
+main div:nth-child(207n) {
+  transition-delay: 10350ms;
+}
+main div:nth-child(208n) {
+  transition-delay: 10400ms;
+}
+main div:nth-child(209n) {
+  transition-delay: 10450ms;
+}
+main div:nth-child(210n) {
+  transition-delay: 10500ms;
+}
+main div:nth-child(211n) {
+  transition-delay: 10550ms;
+}
+main div:nth-child(212n) {
+  transition-delay: 10600ms;
+}
+main div:nth-child(213n) {
+  transition-delay: 10650ms;
+}
+main div:nth-child(214n) {
+  transition-delay: 10700ms;
+}
+main div:nth-child(215n) {
+  transition-delay: 10750ms;
+}
+main div:nth-child(216n) {
+  transition-delay: 10800ms;
+}
+main div:nth-child(217n) {
+  transition-delay: 10850ms;
+}
+main div:nth-child(218n) {
+  transition-delay: 10900ms;
+}
+main div:nth-child(219n) {
+  transition-delay: 10950ms;
+}
+main div:nth-child(220n) {
+  transition-delay: 11000ms;
+}
+main div:nth-child(221n) {
+  transition-delay: 11050ms;
+}
+main div:nth-child(222n) {
+  transition-delay: 11100ms;
+}
+main div:nth-child(223n) {
+  transition-delay: 11150ms;
+}
+main div:nth-child(224n) {
+  transition-delay: 11200ms;
+}
+main div:nth-child(225n) {
+  transition-delay: 11250ms;
+}
+main div:nth-child(226n) {
+  transition-delay: 11300ms;
+}
+main div:nth-child(227n) {
+  transition-delay: 11350ms;
+}
+main div:nth-child(228n) {
+  transition-delay: 11400ms;
+}
+main div:nth-child(229n) {
+  transition-delay: 11450ms;
+}
+main div:nth-child(230n) {
+  transition-delay: 11500ms;
+}
+main div:nth-child(231n) {
+  transition-delay: 11550ms;
+}
+main div:nth-child(232n) {
+  transition-delay: 11600ms;
+}
+main div:nth-child(233n) {
+  transition-delay: 11650ms;
+}
+main div:nth-child(234n) {
+  transition-delay: 11700ms;
+}
+main div:nth-child(235n) {
+  transition-delay: 11750ms;
+}
+main div:nth-child(236n) {
+  transition-delay: 11800ms;
+}
+main div:nth-child(237n) {
+  transition-delay: 11850ms;
+}
+main div:nth-child(238n) {
+  transition-delay: 11900ms;
+}
+main div:nth-child(239n) {
+  transition-delay: 11950ms;
+}
+main div:nth-child(240n) {
+  transition-delay: 12000ms;
+}
+main div:nth-child(241n) {
+  transition-delay: 12050ms;
+}
+main div:nth-child(242n) {
+  transition-delay: 12100ms;
+}
+main div:nth-child(243n) {
+  transition-delay: 12150ms;
+}
+main div:nth-child(244n) {
+  transition-delay: 12200ms;
+}
+main div:nth-child(245n) {
+  transition-delay: 12250ms;
+}
+main div:nth-child(246n) {
+  transition-delay: 12300ms;
+}
+main div:nth-child(247n) {
+  transition-delay: 12350ms;
+}
+main div:nth-child(248n) {
+  transition-delay: 12400ms;
+}
+main div:nth-child(249n) {
+  transition-delay: 12450ms;
+}
+main div:nth-child(250n) {
+  transition-delay: 12500ms;
+}
+main div:nth-child(251n) {
+  transition-delay: 12550ms;
+}
+main div:nth-child(252n) {
+  transition-delay: 12600ms;
+}
+main div:nth-child(253n) {
+  transition-delay: 12650ms;
+}
+main div:nth-child(254n) {
+  transition-delay: 12700ms;
+}
+main div:nth-child(255n) {
+  transition-delay: 12750ms;
+}
+main div:nth-child(256n) {
+  transition-delay: 12800ms;
+}
+
+.red {
+  background-color: #A12122;
+}
+
+.skin {
+  background-color: #C79D75;
+}
+
+.brown {
+  background-color: #52211A;
+}
+
+.blu {
+  background-color: #303A99;
+}
+
+.yellow {
+  background-color: #FEF200;
+}
+
+.black {
+  background-color: #000;
+}
+
+.gloves {
+  background-color: #FDC40D;
+}/*# sourceMappingURL=style.css.map */
